@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">BigClock</string>
-    <string name="btn_setup1">setup1</string>
-    <string name="btn_setup2">setup2</string>
+    <string name="btn_setup1">Color</string>
+    <string name="btn_setup2">Size</string>
+    <string name="btn_setup3">Type</string>
     <string name="str_date">date</string>
     <string name="str_time">time</string>
 </resources>
